@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+Link: https://adoring-borg-9ad5fa.netlify.app/
+
 ## Build Setup
 
 ``` bash
