@@ -1,4 +1,4 @@
-# blog-site
+# RecipeBook
 
 > A Vue.js project
 
